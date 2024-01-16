@@ -71,9 +71,8 @@
 </div>
 
 ###
+###
 
-<div align="center">
-  <img src="Assets/WebDevAnimated.gif" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
-</div>
-
+  [![An image of @ankitshubham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitshubham)](https://holopin.io/@ankitshubham)
+  
 ###
